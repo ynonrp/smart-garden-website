@@ -1,0 +1,8 @@
+Berdasarkan desin layout, data yang akan ditampilkan pada website adalah:
+1. Cuaca
+2. Kelembapan tanah tanaman 1
+3. Kelembapan tanah tanaman 2
+4. Tombol water pump tanaman 1
+5. Tombol water pump tanaman 2 
+6. Tombol pintu masuk kebun
+7. Notifikasi dan ditampilkan pada webite pintu masuk main room berdarakan identitas rfid

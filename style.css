@@ -1,0 +1,33 @@
+@import url(https://db.onlinewebfonts.com/c/2d3c894ad9431451f7145d3ecb6ed90e?family=Sofia+Pro+Soft+Medium);
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;   
+    font-family: "Sofia Pro Soft Medium";
+}
+
+body{
+    width: 100vw;
+    height: 100vh;
+    background-color: #FBFFE4;
+    padding: 20px;
+}
+
+.status-container{
+    height: 150px;
+    width: 200px;
+    background-color: #3D8D7A;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: flex-end;
+    padding: 10px;
+}
+
+
+.status{
+    font-size: 40px;
+    display: flex;
+}
